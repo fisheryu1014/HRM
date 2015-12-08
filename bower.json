@@ -1,0 +1,21 @@
+{
+  "name": "myHRM",
+  "version": "0.0.0",
+  "authors": [
+    "fisher yu <fisher.yu@xplusz.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "bootstrap": "~3.3.6",
+    "angular-resource": "~1.4.8",
+    "ng-dialog": "~0.5.6"
+  }
+}
